@@ -14,17 +14,20 @@ The company wants to also see revenue and sales trend month-wise.
 												
 1. Data importing												
 												
-2. Data cleaning												
+2. Data cleaning
+												
 a. checking for null values 												
 b.checking for data type which should be appropriate and same throughout the column												
 c. changed for category in gender column which had two names for same category												
 												
 												
-3.Data processing												
+3.Data processing
+
 a.created a new column to divide the customers in different age groups												
 b.created a column to extract month from date												
 												
-4.Data analysis												
+4.Data analysis	
+
 a. Highest revenue and sales were seen in march, sales were around 2800 and revenue generated was around 1.92 million.												
 b. Maharashtra was the top state with highest revenue 2.99 M followed by Karnataka and Uttar Pradesh.												
 c. Maximum (around 35.5% )of total revenue was from Amazon followed by Myntra and flipkart.												
