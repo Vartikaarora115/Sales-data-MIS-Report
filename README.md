@@ -12,21 +12,24 @@ We have sales data for a bussiness  for year 2022 having information about sales
 The company wants to also see revenue and sales trend month-wise.
 
 												
-1. Data importing												
+<b>1. Data importing</b>												
 												
-2. Data cleaning
+<b>2. Data cleaning</b>
 												
-a. checking for null values 												
+a. checking for null values 
+
 b.checking for data type which should be appropriate and same throughout the column												
 c. changed for category in gender column which had two names for same category												
 												
 												
-3.Data processing
+<b>3.Data processing</b>
 
 a.created a new column to divide the customers in different age groups												
-b.created a column to extract month from date												
+b.created a column to extract month from date		
+
+
 												
-4.Data analysis	
+<b>4.Data analysis</b>	
 
 a. Highest revenue and sales were seen in march, sales were around 2800 and revenue generated was around 1.92 million.												
 b. Maharashtra was the top state with highest revenue 2.99 M followed by Karnataka and Uttar Pradesh.												
